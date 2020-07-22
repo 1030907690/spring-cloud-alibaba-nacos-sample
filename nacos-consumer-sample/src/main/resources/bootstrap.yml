@@ -11,7 +11,7 @@ spring:
         server-addr: 127.0.0.1:8848 #nacos配置中心地址
         file-extension: yml #指定配置内容的数据格式
         group: CUSTOM_GROUP #指定group 默认是DEFAULT_GROUP
-        namespace: c763491d-9a64-48b5-9701-a44a4bc2f7f8 #指定使用哪个命名空间 默认public
+        namespace: ab6639e5-711d-4011-866c-f5e4a76fd2c5 #指定使用哪个命名空间 默认public
 management:
   endpoints:
     web:
