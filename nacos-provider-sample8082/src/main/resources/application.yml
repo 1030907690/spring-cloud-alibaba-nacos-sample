@@ -14,5 +14,5 @@ management:
   endpoints:
     web:
       exposure:
-        #公开所有节点
+        #公开所有端点
         include: '*'
