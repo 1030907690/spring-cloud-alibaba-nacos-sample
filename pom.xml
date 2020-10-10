@@ -13,6 +13,7 @@
         <module>nacos-consumer-sample</module>
         <module>nacos-provider-sample8081</module>
         <module>nacos-provider-sample8082</module>
+        <module>starter-sample</module>
     </modules>
 
     <properties>
